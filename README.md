@@ -1,8 +1,20 @@
 # Driver-Drowsiness-Detection
 
+The Driver Drowsiness Detection repository offers a real-time solution for monitoring driver drowsiness using computer vision techniques. By analyzing video input, the system detects signs of drowsiness based on eye tracking and triggers an alarm to alert the driver, helping to prevent accidents caused by fatigue. The repository provides the necessary code and resources to implement the system, with opportunities for further contributions to enhance its effectiveness in promoting road safety.
+
+
+
+# Table of Contents
+- Introduction
+- Features
+- Usage
+- Customization
+
+## Introduction
 This repository contains a driver drowsiness detection system that uses computer vision techniques to monitor a driver's level of alertness. The system analyzes real-time video input from a camera which can be placed inside a vehicle and alerts the driver if signs of drowsiness are detected, helping to prevent potential accidents caused by driver fatigue.
 
 The project utilizes OpenCV, a popular computer vision library, to perform facial landmark detection and eye aspect ratio (EAR) calculation. By tracking the driver's eyes, the system can determine if the eyes are closed for an extended period, indicating drowsiness. When drowsiness is detected, an alarm is triggered to alert the driver, allowing them to take necessary measures to stay awake and focused.
+
 
 ## Features
 1) Real-time driver drowsiness detection using a webcam or video input.
