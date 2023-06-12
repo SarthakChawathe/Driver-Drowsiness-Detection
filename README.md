@@ -26,7 +26,7 @@ The project utilizes OpenCV, a popular computer vision library, to perform facia
 
 ## Usage
 1) Connect a webcam to your computer or provide a video file as input.
-2) Run the drowsiness_detection.py script.
+2) Run the Drowsiness_Detection.py script.
 3) The system will start analyzing the video stream and monitoring the driver's drowsiness level.
 4) If drowsiness is detected, an alarm will be triggered.
 6) To stop the program, press Q or Esc.
