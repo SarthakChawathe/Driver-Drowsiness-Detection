@@ -32,7 +32,7 @@ The project utilizes OpenCV, a popular computer vision library, to perform facia
 6) To stop the program, press Q or Esc.
 
 ## Customization
-1) Adjust the EAR_THRESHOLD variable in drowsiness_detection.py to set the threshold for Drowsiness Detection according to your preference.
+1) Adjust the EAR_THRESHOLD variable in Drowsiness_Detection.py to set the threshold for drowsiness detection according to your preference.
 2) Modify the alarm sound by replacing the alarm.wav file in the project directory with your desired sound file.
 
 
