@@ -5,10 +5,10 @@ The Driver Drowsiness Detection repository offers a real-time solution for monit
 
 
 # Table of Contents
-- [Introduction]()
-- [Features]()
-- [Usage]()
-- [Customization]()
+- [Introduction](https://github.com/SarthakChawathe/Driver-Drowsiness-Detection/blob/main/README.md#introduction)
+- [Features](https://github.com/SarthakChawathe/Driver-Drowsiness-Detection/blob/main/README.md#features)
+- [Usage](https://github.com/SarthakChawathe/Driver-Drowsiness-Detection/blob/main/README.md#usage)
+- [Customization](https://github.com/SarthakChawathe/Driver-Drowsiness-Detection/blob/main/README.md#customization)
 
 ## Introduction
 This repository contains a driver drowsiness detection system that uses computer vision techniques to monitor a driver's level of alertness. The system analyzes real-time video input from a camera which can be placed inside a vehicle and alerts the driver if signs of drowsiness are detected, helping to prevent potential accidents caused by driver fatigue.
